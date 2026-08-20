@@ -1,21 +1,42 @@
-สวัสวั ดีครับรั 👋 ผมเมธิส (Mathis)
-🎓 นักศึกษา ศึ ชั้นชั้ ปีที่ 1 สาขา Information Technology and Intelligent
-Innovation (ITII)
-📍 วิทยา วิ ลัยการคอม ลั พิวเตอร์ มหาวิทยา วิ ลัยขอนแ ลั ก่นก่ (KKU)
-🚀 เกี่ยวกับผม กั
-💻 กำ ลังเลั รียนรี รู้ Python และพื้นฐาน พื้ Computer Science
-⚽ ชอบเล่นล่ ฟุตบอล ฟุ เคยอยู่ทียู่ มที สำ รองของมหาวิทยา วิ ลัยลั
-📚 ชอบอ่านอ่ นิยายแปล (อังกฤษ อั → ไทย)
-🎮 ดูคอนเทน ดู ต์ VTuber เป็นสื่อสื่ ฝึกภาษาอังกฤ อั ษ
-🌱 กำ ลังลัพัฒนา พั Skill ด้านด้ Software Engineering / Data ควบคู่ไปคู่ กับหกั ลักลั สูตรสู
-ITII
-🛠️ ภาษาและเครื่องรื่ มือ
-Python
-VSCode
-Git
-GitHub
-📫 ติดต่อผม
-📧 mathis.t@kkumail.com
-<p align="center"> <img src="https://komarev.com/ghpvc/?
-username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"
-alt="profile views"/> </p>
+## Hi there 👋
+
+สวัสดีครับ ผมเมธิส (Mathis)
+
+🎓 นักศึกษาชั้นปีที่ 1 สาขา Information Technology and Intelligent Innovation (ITII)
+📍 วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น (KKU)
+
+### 🚀 เกี่ยวกับผม
+- 💻 กำลังเรียนรู้ Python และพื้นฐาน Computer Science
+- ⚽ ชอบเล่นฟุตบอล เคยอยู่ทีมสำรองของมหาวิทยาลัย
+- 📚 ชอบอ่านนิยายแปล (อังกฤษ → ไทย)
+- 🎮 ดูคอนเทนต์ VTuber เป็นสื่อฝึกภาษาอังกฤษ
+- 🌱 กำลังพัฒนา skill ด้าน Software Engineering / Data ควบคู่ไปกับหลักสูตร ITII
+
+### 🛠️ ภาษาและเครื่องมือ
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+
+
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+
+### 📫 ติดต่อผม
+- 📧 mathis.t@kkumail.com
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mathist-kku&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
