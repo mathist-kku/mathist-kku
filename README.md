@@ -32,11 +32,11 @@
 
 
 ### 📫 ติดต่อผม
-[
+
 
 ![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
 
-](https://mail.google.com/mail/?view=cm&fs=1&to=mathis.t@kkumail.com)
+(https://mail.google.com/mail/?view=cm&fs=1&to=mathis.t@kkumail.com)
 
 
 ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
