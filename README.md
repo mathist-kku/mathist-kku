@@ -5,11 +5,11 @@
  นักศึกษาชั้นปีที่ 1 สาขา Information Technology and Intelligent Innovation (ITII)
  วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น (KKU)
 
-###  เกี่ยวกับผม
+###  About me
 -  กำลังเรียนรู้ Python และพื้นฐาน Computer Science
 -  กำลังพัฒนา skill ด้าน Software Engineering / Data ควบคู่ไปกับหลักสูตร ITII
 
-### 🛠️ ภาษาและเครื่องมือ
+### 🛠️ Language & Tools
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
