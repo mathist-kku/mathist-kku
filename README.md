@@ -32,7 +32,19 @@
 
 
 ### 📫 ติดต่อผม
-- 📧 mathis.t@kkumail.com
+![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
+
+](mailto:mathis.t@kkumail.com)
+[
+
+![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+
+](https://instagram.com/mathis tipmanee)
+[
+
+![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
+
+](https://facebook.com/รหัสหาย)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mathist-kku&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
