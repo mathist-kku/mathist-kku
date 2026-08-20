@@ -2,12 +2,12 @@
 
 สวัสดีครับ ผมเมธิส (Mathis)
 
-🎓 นักศึกษาชั้นปีที่ 1 สาขา Information Technology and Intelligent Innovation (ITII)
-📍 วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น (KKU)
+ นักศึกษาชั้นปีที่ 1 สาขา Information Technology and Intelligent Innovation (ITII)
+ วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น (KKU)
 
-### 🚀 เกี่ยวกับผม
-- 💻 กำลังเรียนรู้ Python และพื้นฐาน Computer Science
-- 🌱 กำลังพัฒนา skill ด้าน Software Engineering / Data ควบคู่ไปกับหลักสูตร ITII
+###  เกี่ยวกับผม
+-  กำลังเรียนรู้ Python และพื้นฐาน Computer Science
+-  กำลังพัฒนา skill ด้าน Software Engineering / Data ควบคู่ไปกับหลักสูตร ITII
 
 ### 🛠️ ภาษาและเครื่องมือ
 
