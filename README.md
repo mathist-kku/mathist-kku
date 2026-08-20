@@ -34,12 +34,12 @@
 ### 📫 ติดต่อผม
 ![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
 
-:mathis.t@kkumail.com)
+(:mathis.t@kkumail.com)
 
 
 ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
 
-(https://instagram.com/mathis tipmanee)
+(https://instagram.com/mathistipmanee)
 
 
 ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
