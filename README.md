@@ -44,7 +44,7 @@
 
 ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
 
-(https://facebook.com/รหัสหาย)
+(https://[facebook.com/รหัสหาย](https://www.facebook.com/rhas.hay.2024?locale=th_TH))
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mathist-kku&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
